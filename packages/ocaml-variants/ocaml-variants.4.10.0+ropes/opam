@@ -1,8 +1,8 @@
 opam-version: "2.0"
-synopsis: "latest 4.10.1 development + rope module"
+synopsis: "latest 4.10.0 development + rope module"
 maintainer: "platform@lists.ocaml.org"
 depends: [
-  "ocaml" {= "4.10.1" & post}
+  "ocaml" {= "4.10.0" & post}
   "base-unix" {post}
   "base-bigarray" {post}
   "base-threads" {post}
