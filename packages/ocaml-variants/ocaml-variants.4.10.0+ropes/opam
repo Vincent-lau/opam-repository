@@ -24,7 +24,7 @@ build: [
 ]
 install: [make "install"]
 url {
-  src: "/Users/vincent/Documents/Cambridge/UROP/ocaml#trunk"
+  src: "/Users/vincent/Documents/Cambridge/UROP/ocaml#4.10"
 }
 post-messages: [
   "A failure in the middle of the build may be caused by build parallelism
